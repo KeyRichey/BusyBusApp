@@ -24,7 +24,7 @@ body {
 
 nav {
   width: 365px;
-  height: 115px;
+  height: 120px;
   margin: 0 auto;
   position: fixed;
   background-color: #0024D1;
@@ -34,7 +34,7 @@ nav {
   float: left;
   display: inline-block;
   margin-left: 16px;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .left-arrow-text{
@@ -42,13 +42,13 @@ nav {
   font-size: 15px;
   letter-spacing: 1px;
   margin-left: 36px;
-  margin-top: 34px;
+  margin-top: 14px;
 }
 
 .favorite-icon{
   float:right;
   color: white;
-  padding-top: 27px;
+  padding-top: 7px;
   padding-right: 16px;
   display: inline-block;
 }
@@ -58,7 +58,7 @@ nav {
   font-size: 27px;
   font-family: 'Open Sans', sans-serif;
   margin-left: 16px;
-  margin-top: 25px;
+  margin-top: 28px;
   letter-spacing: 2px;
 }
 
